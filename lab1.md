@@ -21,11 +21,20 @@ Running commands with path to directory:
 ![Image](CDdirectory.jpg)
 
 Working directory before command: /home
+
 Working directory after command: /home/lecture1
 
 ![Image](LSdirectory.jpg)
 
+Working directory before command: /home
+
+Working directory after command: /home
+
 ![Image](CATdirectory.jpg)
+
+Working directory before command: /home
+
+Working directory after command: /home
 
 Running commands with path to file:
 
