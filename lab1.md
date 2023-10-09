@@ -6,9 +6,15 @@ Running commands with no arguments:
 
 ![Image](CD.jpg)
 
+Working directory: /home
+
 ![Image](LS.jpg)
 
+Working directory: /home
+
 ![Image](CAT.jpg)
+
+Working directory: /home
 
 Running commands with path to directory:
 
