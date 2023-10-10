@@ -54,7 +54,7 @@ Running commands with path to file:
 
 Working directory during command: /home
 
-Explanation: 
+Explanation: using the cd command with a path to a file causes an error ("not a directory") because cd can only move the working directory to a folder, not a file
 
 ![Image](LSfile.jpg)
 
