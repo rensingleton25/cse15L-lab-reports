@@ -54,16 +54,16 @@ Running commands with path to file:
 
 Working directory during command: /home
 
-Explanation: using the cd command with a path to a file causes an error ("not a directory") because cd can only move the working directory to a folder, not a file
+Explanation: using the cd command with a path to a file causes an error ("not a directory") because a file cannot be a directory
 
 ![Image](LSfile.jpg)
 
 Working directory during command: /home
 
-Explanation: 
+Explanation: ls is meant to list the contents within a working directory, however since the path leads directly to a specific file, there are no other file/folder contents to print, so only the given path is printed.
 
 ![Image](CATfile.jpg)
 
 Working directory during command: /home
 
-Explanation: 
+Explanation: cat prints the contents of a given file, so the contents within Hello.java are printed into the console.
