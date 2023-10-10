@@ -46,7 +46,7 @@ Working directory before command: /home
 
 Working directory after command: /home
 
-Explanation: 
+Explanation: cat is meant to print the contents of a given file, so only providing a path to a directory causes an error as shown by the output "is a directory".
 
 Running commands with path to file:
 
@@ -54,11 +54,16 @@ Running commands with path to file:
 
 Working directory during command: /home
 
+Explanation: 
+
 ![Image](LSfile.jpg)
 
 Working directory during command: /home
 
+Explanation: 
 
 ![Image](CATfile.jpg)
 
 Working directory during command: /home
+
+Explanation: 
