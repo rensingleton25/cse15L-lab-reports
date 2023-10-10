@@ -52,6 +52,4 @@ Working directory after command: /home/lecture1
 
 ![Image](CATfile.jpg)
 
-Working directory before command: /home
-
-Working directory after command: /home/lecture1
+Working directory during command: /home
