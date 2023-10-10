@@ -30,7 +30,7 @@ Working directory before command: /home
 
 Working directory after command: /home/lecture1
 
-Explanation:
+Explanation: cd moves the working directory to the specified path, so adding /home/lecture1 to the command moved the directory to lecture1.
 
 ![Image](LSdirectory.jpg)
 
@@ -38,7 +38,7 @@ Working directory before command: /home
 
 Working directory after command: /home
 
-Explanation:
+Explanation: ls lists the files/folders contained in a specified path and thus adding /home/lecture1 to the command will make the console display the files/folders contained in lecture1 (as shown in the screenshot).
 
 ![Image](CATdirectory.jpg)
 
@@ -46,7 +46,7 @@ Working directory before command: /home
 
 Working directory after command: /home
 
-Explanation:
+Explanation: 
 
 Running commands with path to file:
 
